@@ -1,0 +1,31 @@
+# Number Guessing Game
+
+This is a simple command-line Number Guessing Game implemented in Java.
+
+## How to Play
+
+- The program randomly selects a number between 1 and 100.
+- You have 5 attempts to guess the correct number.
+- After each guess, you will be told if your guess is too high or too low.
+- If you guess the number within the allowed attempts, you win!
+- If you fail to guess the number, the correct answer will be revealed.
+
+## How to Run
+
+1. Make sure you have Java installed on your system.
+2. Compile the Java file:
+   ```sh
+   javac Task1.java
+   ```
+3. Run the program:
+   ```sh
+   java Task1
+   ```
+
+## File Structure
+
+- `Task1.java` - Main source code for the Number Guessing Game.
+
+## Author
+
+- [Your Name Here]
