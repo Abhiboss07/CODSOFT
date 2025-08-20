@@ -29,7 +29,7 @@ The application features a clean interface with:
 
 1. **Clone or download the project**
    ```bash
-   git clone <[repository-url](https://github.com/Abhiboss07/CODSOFT)>
+   git clone [https://github.com/Abhiboss07/CODSOFT]
    cd CurrencyConverter
    ```
 
